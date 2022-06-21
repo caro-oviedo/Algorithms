@@ -1,1 +1,4 @@
 # Algorithms
+
+
++ Factorial (Python)
